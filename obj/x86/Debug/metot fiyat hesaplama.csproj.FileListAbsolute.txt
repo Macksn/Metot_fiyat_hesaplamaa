@@ -1,0 +1,8 @@
+C:\Users\ACER-V3\documents\visual studio 2010\Projects\metot fiyat hesaplama\metot fiyat hesaplama\obj\x86\Debug\metot fiyat hesaplama.csprojResolveAssemblyReference.cache
+C:\Users\ACER-V3\documents\visual studio 2010\Projects\metot fiyat hesaplama\metot fiyat hesaplama\obj\x86\Debug\metot_fiyat_hesaplama.Form1.resources
+C:\Users\ACER-V3\documents\visual studio 2010\Projects\metot fiyat hesaplama\metot fiyat hesaplama\obj\x86\Debug\metot_fiyat_hesaplama.Properties.Resources.resources
+C:\Users\ACER-V3\documents\visual studio 2010\Projects\metot fiyat hesaplama\metot fiyat hesaplama\obj\x86\Debug\metot fiyat hesaplama.csproj.GenerateResource.Cache
+C:\Users\ACER-V3\documents\visual studio 2010\Projects\metot fiyat hesaplama\metot fiyat hesaplama\bin\Debug\metot fiyat hesaplama.exe
+C:\Users\ACER-V3\documents\visual studio 2010\Projects\metot fiyat hesaplama\metot fiyat hesaplama\bin\Debug\metot fiyat hesaplama.pdb
+C:\Users\ACER-V3\documents\visual studio 2010\Projects\metot fiyat hesaplama\metot fiyat hesaplama\obj\x86\Debug\metot fiyat hesaplama.exe
+C:\Users\ACER-V3\documents\visual studio 2010\Projects\metot fiyat hesaplama\metot fiyat hesaplama\obj\x86\Debug\metot fiyat hesaplama.pdb
